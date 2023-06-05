@@ -1,0 +1,7 @@
+C:\Users\igundewa\OneDrive - Capgemini\Isha CG\Work\Isha(AZ-900) Practice\ishasapp\bin\Publish\ishasapp.exe
+C:\Users\igundewa\OneDrive - Capgemini\Isha CG\Work\Isha(AZ-900) Practice\ishasapp\bin\Publish\appsettings.Development.json
+C:\Users\igundewa\OneDrive - Capgemini\Isha CG\Work\Isha(AZ-900) Practice\ishasapp\bin\Publish\appsettings.json
+C:\Users\igundewa\OneDrive - Capgemini\Isha CG\Work\Isha(AZ-900) Practice\ishasapp\bin\Publish\ishasapp.dll
+C:\Users\igundewa\OneDrive - Capgemini\Isha CG\Work\Isha(AZ-900) Practice\ishasapp\bin\Publish\ishasapp.deps.json
+C:\Users\igundewa\OneDrive - Capgemini\Isha CG\Work\Isha(AZ-900) Practice\ishasapp\bin\Publish\ishasapp.runtimeconfig.json
+C:\Users\igundewa\OneDrive - Capgemini\Isha CG\Work\Isha(AZ-900) Practice\ishasapp\bin\Publish\ishasapp.pdb
